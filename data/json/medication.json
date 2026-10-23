@@ -1,0 +1,604 @@
+{
+  "medications": [
+    {
+      "id": "MED001",
+      "name": "Paracetamol",
+      "category": "Analgesik",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 240,
+      "unit": "tablet",
+      "minimumStock": 40
+    },
+    {
+      "id": "MED002",
+      "name": "Ibuprofen",
+      "category": "Analgesik",
+      "strength": "400 mg",
+      "form": "Tablet",
+      "stock": 96,
+      "unit": "tablet",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED003",
+      "name": "Antasida Doen",
+      "category": "Antasida",
+      "strength": "200 mg / 200 mg",
+      "form": "Tablet kunyah",
+      "stock": 0,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED004",
+      "name": "Asam Mefenamat",
+      "category": "Analgesik",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 18,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED005",
+      "name": "Amoxicillin",
+      "category": "Antibiotik",
+      "strength": "500 mg",
+      "form": "Kapsul",
+      "stock": 0,
+      "unit": "kapsul",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED006",
+      "name": "Chlorpheniramine Maleate",
+      "category": "Antihistamin",
+      "strength": "4 mg",
+      "form": "Tablet",
+      "stock": 0,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED007",
+      "name": "Omeprazole",
+      "category": "Saluran cerna",
+      "strength": "20 mg",
+      "form": "Kapsul",
+      "stock": 72,
+      "unit": "kapsul",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED008",
+      "name": "Amlodipine",
+      "category": "Antihipertensi",
+      "strength": "5 mg",
+      "form": "Tablet",
+      "stock": 54,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED009",
+      "name": "Metformin",
+      "category": "Antidiabetes",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 12,
+      "unit": "tablet",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED010",
+      "name": "Salbutamol",
+      "category": "Bronkodilator",
+      "strength": "2 mg",
+      "form": "Tablet",
+      "stock": 48,
+      "unit": "tablet",
+      "minimumStock": 15
+    },
+    {
+      "id": "MED011",
+      "name": "Oralit",
+      "category": "Rehidrasi",
+      "strength": "200 ml",
+      "form": "Serbuk oral",
+      "stock": 35,
+      "unit": "sachet",
+      "minimumStock": 10
+    },
+    {
+      "id": "MED012",
+      "name": "Vitamin B Complex",
+      "category": "Vitamin",
+      "strength": "B1/B6/B12",
+      "form": "Tablet",
+      "stock": 8,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED013",
+      "name": "Cefadroxil",
+      "category": "Antibiotik",
+      "strength": "500 mg",
+      "form": "Kapsul",
+      "stock": 85,
+      "unit": "kapsul",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED014",
+      "name": "Cefixime",
+      "category": "Antibiotik",
+      "strength": "200 mg",
+      "form": "Kapsul",
+      "stock": 24,
+      "unit": "kapsul",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED015",
+      "name": "Azithromycin",
+      "category": "Antibiotik",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 60,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED016",
+      "name": "Ciprofloxacin",
+      "category": "Antibiotik",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 42,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED017",
+      "name": "Doxycycline",
+      "category": "Antibiotik",
+      "strength": "100 mg",
+      "form": "Kapsul",
+      "stock": 0,
+      "unit": "kapsul",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED018",
+      "name": "Ceftriaxone",
+      "category": "Antibiotik",
+      "strength": "1 g",
+      "form": "Serbuk injeksi",
+      "stock": 35,
+      "unit": "vial",
+      "minimumStock": 10
+    },
+    {
+      "id": "MED019",
+      "name": "Ketorolac",
+      "category": "Analgesik",
+      "strength": "10 mg",
+      "form": "Tablet",
+      "stock": 55,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED020",
+      "name": "Diclofenac Sodium",
+      "category": "Analgesik",
+      "strength": "50 mg",
+      "form": "Tablet",
+      "stock": 110,
+      "unit": "tablet",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED021",
+      "name": "Meloxicam",
+      "category": "Analgesik",
+      "strength": "7.5 mg",
+      "form": "Tablet",
+      "stock": 28,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED022",
+      "name": "Tramadol",
+      "category": "Analgesik",
+      "strength": "50 mg",
+      "form": "Kapsul",
+      "stock": 15,
+      "unit": "kapsul",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED023",
+      "name": "Cetirizine",
+      "category": "Antihistamin",
+      "strength": "10 mg",
+      "form": "Tablet",
+      "stock": 130,
+      "unit": "tablet",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED024",
+      "name": "Loratadine",
+      "category": "Antihistamin",
+      "strength": "10 mg",
+      "form": "Tablet",
+      "stock": 70,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED025",
+      "name": "Diphenhydramine",
+      "category": "Antihistamin",
+      "strength": "25 mg",
+      "form": "Kapsul",
+      "stock": 0,
+      "unit": "kapsul",
+      "minimumStock": 15
+    },
+    {
+      "id": "MED026",
+      "name": "Dexamethasone",
+      "category": "Kortikosteroid",
+      "strength": "0.5 mg",
+      "form": "Tablet",
+      "stock": 90,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED027",
+      "name": "Prednisone",
+      "category": "Kortikosteroid",
+      "strength": "5 mg",
+      "form": "Tablet",
+      "stock": 18,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED028",
+      "name": "Lansoprazole",
+      "category": "Saluran cerna",
+      "strength": "30 mg",
+      "form": "Kapsul",
+      "stock": 65,
+      "unit": "kapsul",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED029",
+      "name": "Pantoprazole",
+      "category": "Saluran cerna",
+      "strength": "40 mg",
+      "form": "Tablet",
+      "stock": 45,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED030",
+      "name": "Domperidone",
+      "category": "Antiemetik",
+      "strength": "10 mg",
+      "form": "Tablet",
+      "stock": 38,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED031",
+      "name": "Ondansetron",
+      "category": "Antiemetik",
+      "strength": "4 mg",
+      "form": "Tablet",
+      "stock": 12,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED032",
+      "name": "Metoclopramide",
+      "category": "Antiemetik",
+      "strength": "10 mg",
+      "form": "Tablet",
+      "stock": 52,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED033",
+      "name": "Loperamide",
+      "category": "Antidiare",
+      "strength": "2 mg",
+      "form": "Kapsul",
+      "stock": 75,
+      "unit": "kapsul",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED034",
+      "name": "Zinc Sulfate",
+      "category": "Suplemen mineral",
+      "strength": "20 mg",
+      "form": "Tablet dispersibel",
+      "stock": 40,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED035",
+      "name": "Furosemide",
+      "category": "Diuretik",
+      "strength": "40 mg",
+      "form": "Tablet",
+      "stock": 58,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED036",
+      "name": "Captopril",
+      "category": "Antihipertensi",
+      "strength": "25 mg",
+      "form": "Tablet",
+      "stock": 95,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED037",
+      "name": "Lisinopril",
+      "category": "Antihipertensi",
+      "strength": "10 mg",
+      "form": "Tablet",
+      "stock": 33,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED038",
+      "name": "Valsartan",
+      "category": "Antihipertensi",
+      "strength": "80 mg",
+      "form": "Tablet",
+      "stock": 0,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED039",
+      "name": "Bisoprolol",
+      "category": "Kardiovaskular",
+      "strength": "5 mg",
+      "form": "Tablet",
+      "stock": 47,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED040",
+      "name": "Simvastatin",
+      "category": "Antihiperlipidemia",
+      "strength": "20 mg",
+      "form": "Tablet",
+      "stock": 88,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED041",
+      "name": "Glimepiride",
+      "category": "Antidiabetes",
+      "strength": "2 mg",
+      "form": "Tablet",
+      "stock": 32,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED042",
+      "name": "Glibenclamide",
+      "category": "Antidiabetes",
+      "strength": "5 mg",
+      "form": "Tablet",
+      "stock": 14,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED043",
+      "name": "Insulin Regular",
+      "category": "Antidiabetes",
+      "strength": "100 IU/ml",
+      "form": "Injeksi",
+      "stock": 18,
+      "unit": "vial",
+      "minimumStock": 10
+    },
+    {
+      "id": "MED044",
+      "name": "Aspirin",
+      "category": "Antiplatelet",
+      "strength": "80 mg",
+      "form": "Tablet",
+      "stock": 120,
+      "unit": "tablet",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED045",
+      "name": "Clopidogrel",
+      "category": "Antiplatelet",
+      "strength": "75 mg",
+      "form": "Tablet",
+      "stock": 26,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED046",
+      "name": "Ferrous Sulfate",
+      "category": "Suplemen zat besi",
+      "strength": "300 mg",
+      "form": "Tablet",
+      "stock": 150,
+      "unit": "tablet",
+      "minimumStock": 40
+    },
+    {
+      "id": "MED047",
+      "name": "Asam Folat",
+      "category": "Vitamin",
+      "strength": "1 mg",
+      "form": "Tablet",
+      "stock": 68,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED048",
+      "name": "Vitamin C",
+      "category": "Vitamin",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 105,
+      "unit": "tablet",
+      "minimumStock": 30
+    },
+    {
+      "id": "MED049",
+      "name": "Vitamin D3",
+      "category": "Vitamin",
+      "strength": "1000 IU",
+      "form": "Tablet",
+      "stock": 36,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED050",
+      "name": "Calcium Lactate",
+      "category": "Suplemen mineral",
+      "strength": "500 mg",
+      "form": "Tablet",
+      "stock": 72,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED051",
+      "name": "Ambroxol",
+      "category": "Mukolitik",
+      "strength": "30 mg",
+      "form": "Tablet",
+      "stock": 82,
+      "unit": "tablet",
+      "minimumStock": 25
+    },
+    {
+      "id": "MED052",
+      "name": "Bromhexine",
+      "category": "Mukolitik",
+      "strength": "8 mg",
+      "form": "Tablet",
+      "stock": 22,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED053",
+      "name": "Acetylcysteine",
+      "category": "Mukolitik",
+      "strength": "200 mg",
+      "form": "Serbuk oral",
+      "stock": 40,
+      "unit": "sachet",
+      "minimumStock": 15
+    },
+    {
+      "id": "MED054",
+      "name": "Guaifenesin",
+      "category": "Ekspektoran",
+      "strength": "100 mg",
+      "form": "Tablet",
+      "stock": 0,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED055",
+      "name": "Acyclovir",
+      "category": "Antivirus",
+      "strength": "400 mg",
+      "form": "Tablet",
+      "stock": 31,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED056",
+      "name": "Fluconazole",
+      "category": "Antijamur",
+      "strength": "150 mg",
+      "form": "Kapsul",
+      "stock": 16,
+      "unit": "kapsul",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED057",
+      "name": "Ketoconazole",
+      "category": "Antijamur",
+      "strength": "200 mg",
+      "form": "Tablet",
+      "stock": 25,
+      "unit": "tablet",
+      "minimumStock": 20
+    },
+    {
+      "id": "MED058",
+      "name": "Povidone Iodine",
+      "category": "Antiseptik",
+      "strength": "10%",
+      "form": "Larutan topikal",
+      "stock": 44,
+      "unit": "botol",
+      "minimumStock": 15
+    },
+    {
+      "id": "MED059",
+      "name": "Chloramphenicol",
+      "category": "Antibiotik",
+      "strength": "1%",
+      "form": "Tetes mata",
+      "stock": 10,
+      "unit": "botol",
+      "minimumStock": 15
+    },
+    {
+      "id": "MED060",
+      "name": "Hydrocortisone",
+      "category": "Kortikosteroid topikal",
+      "strength": "1%",
+      "form": "Krim",
+      "stock": 27,
+      "unit": "tube",
+      "minimumStock": 10
+    }
+  ]
+}

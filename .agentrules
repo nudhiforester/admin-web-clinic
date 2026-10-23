@@ -61,6 +61,8 @@
 12. `data\json\user.json` : Menyimpan informasi identitas dan akses user (dummy).
 13. `data\json\config.json` : Menyimpan pengaturan aplikasi (nama aplikasi, perusahaan, kontak, media sosial, dll ).
 14. `api` Berfungsi untuk menyimpan API PHP sebagai backend aplikasi.
+15. `data\json\medication.json` Berfungsi untuk menyimpan data obat.
+15. `data\json\medication_request.json` Berfungsi untuk menyimpan data resep.
 
 
 ## Fonts

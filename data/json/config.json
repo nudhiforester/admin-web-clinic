@@ -1,0 +1,11 @@
+{
+  "clinic": {
+    "name": "Rumah Sakit Umum",
+    "city": "Kabupaten Ghotam",
+    "displayName": "Rumah Sakit Ghotam City",
+    "address": "Jalan Metropolis No.007 Ghotam City",
+    "motto": "Dengan Hati, Kami Melayani",
+    "phone": "(021) 555-0100",
+    "logo": "assets/img/logo/logo.png"
+  }
+}

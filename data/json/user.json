@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "doctor-demo",
+      "name": "dr. Loudry Amsal A.E.G., S.Pd",
+      "role": "Dokter Spesialis Dalam",
+      "email": "dhiforester@gmail.com",
+      "password": "dhiforester"
+    }
+  ]
+}

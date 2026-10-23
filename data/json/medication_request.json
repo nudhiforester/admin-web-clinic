@@ -1,0 +1,589 @@
+{
+  "prescriptions": [
+    {
+      "id": "RX001",
+      "prescriptionNumber": "RSP231026001",
+      "issuedAt": "2026-10-23T15:20:00+07:00",
+      "patientId": "P001",
+      "patientName": "Budi Santoso",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED001",
+          "dosage": "3 x 1 tablet sesudah makan",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED006",
+          "dosage": "3 x 1 tablet",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX002",
+      "prescriptionNumber": "RSP231026002",
+      "issuedAt": "2026-10-23T14:40:00+07:00",
+      "patientId": "P002",
+      "patientName": "Siti Rahmawati",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED002",
+          "dosage": "2 x 1 tablet sesudah makan",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "RX003",
+      "prescriptionNumber": "RSP231026003",
+      "issuedAt": "2026-10-23T13:15:00+07:00",
+      "patientId": "P003",
+      "patientName": "Andi Pratama",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED009",
+          "dosage": "2 x 1 tablet sesudah makan",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED008",
+          "dosage": "1 x 1 tablet",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX004",
+      "prescriptionNumber": "RSP231026004",
+      "issuedAt": "2026-10-23T11:45:00+07:00",
+      "patientId": "P004",
+      "patientName": "Dewi Lestari",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED007",
+          "dosage": "1 x 1 kapsul sebelum makan",
+          "quantity": 14
+        }
+      ]
+    },
+    {
+      "id": "RX005",
+      "prescriptionNumber": "RSP231026005",
+      "issuedAt": "2026-10-23T10:35:00+07:00",
+      "patientId": "P005",
+      "patientName": "Rizky Maulana",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED004",
+          "dosage": "3 x 1 tablet sesudah makan",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "id": "RX006",
+      "prescriptionNumber": "RSP221026001",
+      "issuedAt": "2026-10-22T16:10:00+07:00",
+      "patientId": "P010",
+      "patientName": "Rina Marlina",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED007",
+          "dosage": "2 x 1 kapsul sebelum makan",
+          "quantity": 14
+        },
+        {
+          "medicationId": "MED001",
+          "dosage": "3 x 1 tablet bila perlu",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX007",
+      "prescriptionNumber": "RSP221026002",
+      "issuedAt": "2026-10-22T14:00:00+07:00",
+      "patientId": "P011",
+      "patientName": "Hendra Wijaya",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED008",
+          "dosage": "1 x 1 tablet",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED009",
+          "dosage": "2 x 1 tablet sesudah makan",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX008",
+      "prescriptionNumber": "RSP211026001",
+      "issuedAt": "2026-10-21T15:35:00+07:00",
+      "patientId": "P014",
+      "patientName": "Putri Amelia",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED010",
+          "dosage": "3 x 1 tablet",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX009",
+      "prescriptionNumber": "RSP211026002",
+      "issuedAt": "2026-10-21T09:10:00+07:00",
+      "patientId": "P016",
+      "patientName": "Sri Wahyuni",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED008",
+          "dosage": "1 x 1 tablet",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED001",
+          "dosage": "3 x 1 tablet bila perlu",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX010",
+      "prescriptionNumber": "RSP201026001",
+      "issuedAt": "2026-10-20T14:45:00+07:00",
+      "patientId": "P017",
+      "patientName": "Taufik Ismail",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED004",
+          "dosage": "2 x 1 tablet sesudah makan",
+          "quantity": 6
+        }
+      ]
+    },
+     {
+      "id": "RX011",
+      "prescriptionNumber": "RSP201026002",
+      "issuedAt": "2026-10-20T13:30:00+07:00",
+      "patientId": "P018",
+      "patientName": "Nur Aisyah",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED023",
+          "dosage": "1 x 1 tablet",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED048",
+          "dosage": "1 x 1 tablet sesudah makan",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX012",
+      "prescriptionNumber": "RSP191026001",
+      "issuedAt": "2026-10-19T16:20:00+07:00",
+      "patientId": "P019",
+      "patientName": "Agus Setiawan",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED028",
+          "dosage": "1 x 1 kapsul sebelum makan",
+          "quantity": 14
+        },
+        {
+          "medicationId": "MED033",
+          "dosage": "Sesuai petunjuk dokter",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "RX013",
+      "prescriptionNumber": "RSP191026002",
+      "issuedAt": "2026-10-19T14:10:00+07:00",
+      "patientId": "P020",
+      "patientName": "Maya Puspitasari",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED024",
+          "dosage": "1 x 1 tablet",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX014",
+      "prescriptionNumber": "RSP181026001",
+      "issuedAt": "2026-10-18T11:25:00+07:00",
+      "patientId": "P021",
+      "patientName": "Dedi Kurniawan",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED036",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED040",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX015",
+      "prescriptionNumber": "RSP181026002",
+      "issuedAt": "2026-10-18T09:40:00+07:00",
+      "patientId": "P022",
+      "patientName": "Lina Marlina",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED046",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED047",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX016",
+      "prescriptionNumber": "RSP171026001",
+      "issuedAt": "2026-10-17T15:15:00+07:00",
+      "patientId": "P023",
+      "patientName": "Fajar Nugraha",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED051",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED053",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX017",
+      "prescriptionNumber": "RSP171026002",
+      "issuedAt": "2026-10-17T13:50:00+07:00",
+      "patientId": "P024",
+      "patientName": "Rani Oktaviani",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED030",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED011",
+          "dosage": "Sesuai petunjuk penggunaan",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "RX018",
+      "prescriptionNumber": "RSP161026001",
+      "issuedAt": "2026-10-16T16:45:00+07:00",
+      "patientId": "P025",
+      "patientName": "Yusuf Firmansyah",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED019",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX019",
+      "prescriptionNumber": "RSP161026002",
+      "issuedAt": "2026-10-16T10:30:00+07:00",
+      "patientId": "P026",
+      "patientName": "Fitri Handayani",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED029",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 14
+        },
+        {
+          "medicationId": "MED032",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX020",
+      "prescriptionNumber": "RSP151026001",
+      "issuedAt": "2026-10-15T14:25:00+07:00",
+      "patientId": "P027",
+      "patientName": "Rudi Hartono",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED037",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED039",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX021",
+      "prescriptionNumber": "RSP151026002",
+      "issuedAt": "2026-10-15T11:10:00+07:00",
+      "patientId": "P028",
+      "patientName": "Intan Permatasari",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED049",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED050",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX022",
+      "prescriptionNumber": "RSP141026001",
+      "issuedAt": "2026-10-14T15:50:00+07:00",
+      "patientId": "P029",
+      "patientName": "Wahyu Saputra",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED020",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED021",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX023",
+      "prescriptionNumber": "RSP141026002",
+      "issuedAt": "2026-10-14T09:15:00+07:00",
+      "patientId": "P030",
+      "patientName": "Eka Wulandari",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED026",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED060",
+          "dosage": "Gunakan sesuai instruksi dokter",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "RX024",
+      "prescriptionNumber": "RSP131026001",
+      "issuedAt": "2026-10-13T13:35:00+07:00",
+      "patientId": "P031",
+      "patientName": "Bayu Ramadhan",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED044",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        },
+        {
+          "medicationId": "MED045",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": "RX025",
+      "prescriptionNumber": "RSP131026002",
+      "issuedAt": "2026-10-13T10:05:00+07:00",
+      "patientId": "P032",
+      "patientName": "Nadia Safitri",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED034",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED048",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX026",
+      "prescriptionNumber": "RSP121026001",
+      "issuedAt": "2026-10-12T16:30:00+07:00",
+      "patientId": "P033",
+      "patientName": "Agung Prasetyo",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED055",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": "RX027",
+      "prescriptionNumber": "RSP121026002",
+      "issuedAt": "2026-10-12T11:45:00+07:00",
+      "patientId": "P034",
+      "patientName": "Salsa Amelia",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Diproses",
+      "items": [
+        {
+          "medicationId": "MED057",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED058",
+          "dosage": "Gunakan sesuai instruksi dokter",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "RX028",
+      "prescriptionNumber": "RSP111026001",
+      "issuedAt": "2026-10-11T14:55:00+07:00",
+      "patientId": "P035",
+      "patientName": "Dimas Alfarizi",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED052",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        },
+        {
+          "medicationId": "MED010",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX029",
+      "prescriptionNumber": "RSP111026002",
+      "issuedAt": "2026-10-11T09:25:00+07:00",
+      "patientId": "P036",
+      "patientName": "Citra Anggraini",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Menunggu",
+      "items": [
+        {
+          "medicationId": "MED014",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "RX030",
+      "prescriptionNumber": "RSP101026001",
+      "issuedAt": "2026-10-10T13:20:00+07:00",
+      "patientId": "P037",
+      "patientName": "Rahmat Hidayat",
+      "doctorName": "dr. Loudry Amsal A.E.G., S.Pd",
+      "status": "Selesai",
+      "items": [
+        {
+          "medicationId": "MED015",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 6
+        },
+        {
+          "medicationId": "MED001",
+          "dosage": "Sesuai instruksi dokter",
+          "quantity": 10
+        }
+      ]
+    }
+  ]
+}

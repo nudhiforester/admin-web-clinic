@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7efd9">
+    <title>Masuk | Rekam Medis</title>
+    <link rel="icon" href="assets/img/pavicon/favicon.ico">
+    <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="node_modules/sweetalert2/dist/sweetalert2.all.min.js" defer></script>
+    <script src="assets/js/main.js" defer></script>
+  </head>
+  <body class="login-page" data-page="login">
+    <main class="login-shell">
+      <section class="login-brand" aria-label="Informasi fasilitas kesehatan">
+        <p class="login-eyebrow">Sistem Informasi Manajemen Rumah Sakit (SIMRS)</p>
+        <img class="login-logo" src="assets/img/logo/logo.png" data-clinic-logo alt="Logo fasilitas kesehatan">
+        <div class="hospital-name">
+          <h1 data-clinic-name>Rumah Sakit</h1>
+          <p data-clinic-location></p>
+        </div>
+        <p class="hospital-motto" data-clinic-motto></p>
+        <div class="social-strip" aria-label="Media sosial">
+          <a href="#facebook" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+          <a href="#instagram" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+          <a href="#x" aria-label="X"><i class="bi bi-twitter-x"></i></a>
+          <a href="#youtube" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
+          <a href="#linkedin" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </section>
+
+      <section class="login-form-side" aria-labelledby="login-title">
+        <div class="login-card">
+          <h2 id="login-title">Login Ke Akun Anda</h2>
+          <p class="login-intro">Silakan masuk untuk mengakses dashboard Anda.</p>
+          <form id="login-form" novalidate>
+            <label class="form-label" for="email">Email</label>
+            <input class="form-control" id="email" name="email" type="email" autocomplete="username" placeholder="Masukkan alamat email" required>
+            <label class="form-label password-label" for="password">Password</label>
+            <div class="password-wrap">
+              <input class="form-control" id="password" name="password" type="password" autocomplete="current-password" placeholder="Masukkan password" required>
+              <button class="password-toggle" id="password-toggle" type="button" aria-label="Tampilkan password" aria-pressed="false"><i class="bi bi-eye"></i></button>
+            </div>
+            <div class="login-options">
+              <label class="remember-option"><input type="checkbox" name="remember" checked> <span>Ingat saya</span></label>
+              <button class="text-button" id="forgot-password" type="button">Lupa password?</button>
+            </div>
+            <p class="form-error" id="login-error" role="alert" hidden></p>
+            <button class="login-submit" type="submit">Login</button>
+          </form>
+          <div class="or-divider"><span>Atau</span></div>
+          <button class="google-login" type="button" disabled aria-label="Login dengan Google tidak tersedia pada prototipe">
+            <i class="bi bi-google"></i> Login dengan Google
+          </button>
+          <p class="login-help" id="login-help">Jika terjadi kesalahan sistem, silakan hubungi admin untuk mendapatkan bantuan.</p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
